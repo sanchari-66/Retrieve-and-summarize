@@ -1,0 +1,15 @@
+
+
+
+
+
+backend/
+├── retriever/
+│   ├── pdf_loader.py         ✅ ← We’ll make this now
+│   └── embed_store.py        🚧 ← Next step
+├── data/
+│   └── pdfs/                 ← Put your sample PDFs here
+├── vector_store/
+│   └── faiss_index/          ← Where embeddings will be saved
+├── .env
+└── requirements.txt
