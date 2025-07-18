@@ -33,20 +33,8 @@ Run the Streamlit app:
 streamlit run app.py
 
 Project Structure
-Retrieve-and-summarize/
-├── Backend/
-│   ├── retriever/
-│   │   ├── pdf_loader.py
-│   │   ├── embed_store.py
-│   ├── rag_pipeline.py
-│   ├── summarizer.py
-│   └── smart_helper.py
-├── Frontend-ResearchBot/
-│   ├── app.py
-│   └── utils/
-│       └── query_engine.py
-├── requirements.txt
-└── README.md
+<img width="417" height="532" alt="image" src="https://github.com/user-attachments/assets/e712c0bf-288d-4de2-b319-fae95f2a4913" />
+
 
 
 ## Installation
