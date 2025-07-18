@@ -24,13 +24,6 @@ Additionally, it provides a **chatbot-like summarizer and explainer** that can d
 ---
 
 
-## Installation
-Clone the repository:
-```bash
-git clone https://github.com/sanchari-66/Retrieve-and-summarize.git
-cd Retrieve-and-summarize
-
----
 
 
 ### Install dependencies:
@@ -55,3 +48,9 @@ Retrieve-and-summarize/
 ├── requirements.txt
 └── README.md
 
+
+## Installation
+Clone the repository:
+```bash
+git clone https://github.com/sanchari-66/Retrieve-and-summarize.git
+cd Retrieve-and-summarize
